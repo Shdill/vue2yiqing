@@ -9,5 +9,4 @@
 6. swiper的基本使用
 
 ### 主页图片：
-
-![image-20220823151041470](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20220823151041470.png)
+![image](https://user-images.githubusercontent.com/90594665/186096566-0c01fc49-ed3c-4071-9766-403faf1c063f.png)
